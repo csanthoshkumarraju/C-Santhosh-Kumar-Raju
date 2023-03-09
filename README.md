@@ -1,3 +1,4 @@
+![logo](https://github.com/csanthoshkumarraju/C-Santhosh-Kumar-Raju/blob/main/cse-banner.jpeg)
 <h1 align="center">Hi 👋, I'm C Santhosh Kumar Raju</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align=“right” alt=“coding” width=“400” src=giphy.gif>
